@@ -40,7 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		25787F872436434A0066701D /* PolynomialConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PolynomialConverter.m; sourceTree = "<group>"; };
+		25787F872436434A0066701D /* PolynomialConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PolynomialConverter.m; sourceTree = "<group>"; tabWidth = 4; };
 		25787F882436434A0066701D /* PolynomialConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PolynomialConverter.h; sourceTree = "<group>"; };
 		25787F8A243643590066701D /* T3_PolynomialTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = T3_PolynomialTests.m; sourceTree = "<group>"; };
 		25787F8C243643770066701D /* Combinator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Combinator.h; sourceTree = "<group>"; };
